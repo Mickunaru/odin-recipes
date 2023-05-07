@@ -1,0 +1,23 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(63, 4, 4);
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+    color: white;
+}
+
+h2 {
+    font-size: 35px;
+}
+
+p,
+li {
+    font-size: 20px;
+}
+
+li {
+    margin-top: 10px;
+}
